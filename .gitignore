@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Junk Files
 *.DS_Store
 [Tt]humbs.db
@@ -50,3 +51,8 @@ Ankh.NoLoad
 !/packages/*/lib/*.dll
 !/packages/*/lib/*/*.dll
 packages/
+=======
+packages/
+obj/
+bin/
+>>>>>>> refs/remotes/origin/Idam

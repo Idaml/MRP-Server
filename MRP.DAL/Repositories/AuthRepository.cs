@@ -45,6 +45,7 @@ namespace MRP.DAL.Repositories
         {
             var user = new User
             {
+                UserId = regInfo.UserId,
                 UserName = regInfo.Username,
                 FullName = regInfo.FullName,
                 Email = regInfo.EmailAddress,
