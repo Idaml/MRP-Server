@@ -1,0 +1,5 @@
+*.dll
+*.txt
+MRP.BL/bin/Debug/MRP.DAL.pdb
+*.pdb
+*.dll

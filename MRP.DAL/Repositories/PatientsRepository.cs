@@ -80,7 +80,8 @@ namespace MRP.DAL.Repositories
             if (!String.IsNullOrWhiteSpace(model.PatientId))
                 collection = await _patients.Find(p => p.PatientId == model.PatientId).ToListAsync();
             else
-                collection = await _patients.Find(p => p.Name == model.Name).ToListAsync();
+                // collection = await _patients.Find(p => p.Name == model.Name).ToListAsync();
+                collection = await _patients.Find(p => p.Name.StartsWith(model.Name)).ToListAsync();
             return collection.ConvertToDTOExtension().ToList();
         }
     }
