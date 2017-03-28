@@ -1,0 +1,14 @@
+C:\Users\yair\Desktop\MRP\Server\MRP.Common\bin\Debug\MRP.Common.dll
+C:\Users\yair\Desktop\MRP\Server\MRP.Common\bin\Debug\MRP.Common.pdb
+C:\Users\yair\Desktop\MRP\Server\MRP.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yair\Desktop\MRP\Server\MRP.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yair\Desktop\MRP\Server\MRP.Common\obj\Debug\MRP.Common.csprojResolveAssemblyReference.cache
+C:\Users\yair\Desktop\MRP\Server\MRP.Common\obj\Debug\MRP.Common.dll
+C:\Users\yair\Desktop\MRP\Server\MRP.Common\obj\Debug\MRP.Common.pdb
+C:\Users\yair\Desktop\MRP\MRP-Server\MRP.Common\bin\Debug\MRP.Common.dll
+C:\Users\yair\Desktop\MRP\MRP-Server\MRP.Common\bin\Debug\MRP.Common.pdb
+C:\Users\yair\Desktop\MRP\MRP-Server\MRP.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yair\Desktop\MRP\MRP-Server\MRP.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yair\Desktop\MRP\MRP-Server\MRP.Common\obj\Debug\MRP.Common.csprojResolveAssemblyReference.cache
+C:\Users\yair\Desktop\MRP\MRP-Server\MRP.Common\obj\Debug\MRP.Common.dll
+C:\Users\yair\Desktop\MRP\MRP-Server\MRP.Common\obj\Debug\MRP.Common.pdb
