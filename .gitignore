@@ -3,3 +3,13 @@
 MRP.BL/bin/Debug/MRP.DAL.pdb
 *.pdb
 *.dll
+*.dll
+MRP.DAL/obj/Debug/MRP.DAL.dll
+*.config
+MRP.API/bin/MRP.API.pdb
+*.config
+*.dll
+*.cache
+*.dll
+*.dll
+*.config

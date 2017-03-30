@@ -34,3 +34,21 @@ C:\Users\yair\Desktop\MRP\MRP-Server\MRP.DAL\bin\Debug\MongoDB.Driver.Core.xml
 C:\Users\yair\Desktop\MRP\MRP-Server\MRP.DAL\obj\Debug\MRP.DAL.csprojResolveAssemblyReference.cache
 C:\Users\yair\Desktop\MRP\MRP-Server\MRP.DAL\obj\Debug\MRP.DAL.dll
 C:\Users\yair\Desktop\MRP\MRP-Server\MRP.DAL\obj\Debug\MRP.DAL.pdb
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MRP.DAL.dll.config
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MRP.DAL.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MRP.DAL.pdb
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\AspNet.Identity.MongoDB.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MongoDB.Bson.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MongoDB.Driver.Core.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MongoDB.Driver.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MRP.Common.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MRP.Common.pdb
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MongoDB.Bson.xml
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MongoDB.Driver.xml
+D:\MRP Project\MRP-Server\MRP.DAL\bin\Debug\MongoDB.Driver.Core.xml
+D:\MRP Project\MRP-Server\MRP.DAL\obj\Debug\MRP.DAL.csprojResolveAssemblyReference.cache
+D:\MRP Project\MRP-Server\MRP.DAL\obj\Debug\MRP.DAL.dll
+D:\MRP Project\MRP-Server\MRP.DAL\obj\Debug\MRP.DAL.pdb

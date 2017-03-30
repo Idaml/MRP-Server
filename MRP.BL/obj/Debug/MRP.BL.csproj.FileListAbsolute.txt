@@ -40,3 +40,24 @@ C:\Users\yair\Desktop\MRP\MRP-Server\MRP.BL\bin\Debug\MongoDB.Driver.Core.xml
 C:\Users\yair\Desktop\MRP\MRP-Server\MRP.BL\obj\Debug\MRP.BL.csprojResolveAssemblyReference.cache
 C:\Users\yair\Desktop\MRP\MRP-Server\MRP.BL\obj\Debug\MRP.BL.dll
 C:\Users\yair\Desktop\MRP\MRP-Server\MRP.BL\obj\Debug\MRP.BL.pdb
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MRP.BL.dll.config
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MRP.BL.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MRP.BL.pdb
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MRP.Common.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MRP.DAL.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\Newtonsoft.Json.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MongoDB.Driver.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MongoDB.Bson.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\AspNet.Identity.MongoDB.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MongoDB.Driver.Core.dll
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MRP.Common.pdb
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MRP.DAL.pdb
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\Newtonsoft.Json.xml
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MongoDB.Driver.xml
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MongoDB.Bson.xml
+D:\MRP Project\MRP-Server\MRP.BL\bin\Debug\MongoDB.Driver.Core.xml
+D:\MRP Project\MRP-Server\MRP.BL\obj\Debug\MRP.BL.csprojResolveAssemblyReference.cache
+D:\MRP Project\MRP-Server\MRP.BL\obj\Debug\MRP.BL.dll
+D:\MRP Project\MRP-Server\MRP.BL\obj\Debug\MRP.BL.pdb
